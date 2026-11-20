@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="ArtHive image unavailable">
+  <rect width="800" height="600" fill="#f4f0e7"/>
+  <path d="M170 420 300 285l95 92 90-125 145 168H170Z" fill="#d9d0be"/>
+  <circle cx="530" cy="170" r="52" fill="#b79a5b" opacity=".7"/>
+  <text x="400" y="500" text-anchor="middle" fill="#722e32" font-family="serif" font-size="26">ART HIVE</text>
+</svg>
